@@ -1,0 +1,3 @@
+Project: Mobile Phone Store Management
+Jira Issue: MPS-4
+Purpose: Jira and GitHub integration verification.
